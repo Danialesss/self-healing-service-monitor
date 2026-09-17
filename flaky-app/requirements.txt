@@ -1,2 +1,5 @@
+# FastAPI powers the intentionally flaky web service.
 fastapi>=0.115,<1
+
+# Uvicorn runs the API server in production-like local and container setups.
 uvicorn[standard]>=0.34,<1
