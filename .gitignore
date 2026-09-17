@@ -1,0 +1,9 @@
+# Python bytecode and local test caches.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environment files may contain credentials or machine-specific values.
+.env
+.venv/
+venv/
